@@ -2,7 +2,7 @@ cigarreria_y_abarrotes_donde_yubi
 
 Equipo de Desarrollo:
 Integrantes:
-Joticius: Juan 
+Joticius: Juan -> Juan
 Samushu: Samuel 
 DaniluxxTilin: Daniel 
 
