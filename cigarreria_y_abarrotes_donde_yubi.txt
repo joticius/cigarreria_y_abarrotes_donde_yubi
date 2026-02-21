@@ -1,0 +1,10 @@
+cigarreria_y_abarrotes_donde_yubi
+
+Equipo de Desarrollo:
+Integrantes:
+Joticius: Juan 
+Samushu: Samuel 
+DaniluxxTilin: Daniel 
+
+Proyecto:
+Aplicación de perfiles de equipo 
