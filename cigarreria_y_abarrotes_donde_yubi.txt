@@ -4,7 +4,8 @@ Equipo de Desarrollo:
 Integrantes:
 Joticius: Juan -> Juan
 Samushu: Samuel 
-DaniluxxTilin: Daniel 
+DaniluxxTilin: Daniel -> daniluxx
 
 Proyecto:
 Aplicación de perfiles de equipo 
+:)
