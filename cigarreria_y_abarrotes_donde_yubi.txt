@@ -7,5 +7,7 @@ Samushu: Samuel -> Samushu
 DaniluxxTilin: Daniel -> daniluxx
 
 Proyecto:
+
+versión 0.21-End_update
 Aplicación de perfiles de equipo 
 :)
