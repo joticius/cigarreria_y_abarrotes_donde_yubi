@@ -7,5 +7,7 @@ Samushu: Samuel -> Samushu
 DaniluxxTilin: Daniel -> daniluxx
 
 Proyecto:
+
+versión:0.28 Cave_Update
 Aplicación de perfiles de equipo 
 :)
