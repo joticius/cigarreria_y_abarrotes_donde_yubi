@@ -3,7 +3,7 @@ cigarreria_y_abarrotes_donde_yubi
 Equipo de Desarrollo:
 Integrantes:
 Joticius: Juan 
-Samushu: Samuel 
+Samushu: Samuel -> samushu
 DaniluxxTilin: Daniel 
 
 Proyecto:
